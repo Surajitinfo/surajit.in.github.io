@@ -284,6 +284,9 @@
 		font-size: 25px;
 		line-height: 30px;
 	}
+	#preloader{
+		background-size: 14%;
+	}
 	.navbar-collapse{
 		width: 100%;
 	}
