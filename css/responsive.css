@@ -213,7 +213,7 @@
 		transform: translateY(87%);
 	}
 	.portfolio-item{
-		margin-top: 10px;
+		margin: 10px 0;
 	}
 	.client{
 		padding: 20px 0
