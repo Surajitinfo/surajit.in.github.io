@@ -5,6 +5,10 @@ $(document).ready(function(){
         $('.navbar-toggler span:nth-child(1)').toggleClass('close-top');
         $('.navbar-toggler span:nth-child(2)').toggleClass('close-bottom');
     });
+    
+    $('.navbar-toggler').click(function(){
+        $('.nav-link').toggleClass('position');
+    });
 
 
     $(window).scroll(function(){
