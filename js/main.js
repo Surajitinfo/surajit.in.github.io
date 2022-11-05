@@ -8,6 +8,9 @@ $(document).ready(function(){
     
     $('.nav-link').click(function(){
         $('.navbar-collapse').toggleClass('position');
+        $('.navbar-toggler span:nth-child(3)').toggleClass('d-none');
+        $('.navbar-toggler span:nth-child(1)').toggleClass('close-top');
+        $('.navbar-toggler span:nth-child(2)').toggleClass('close-bottom');
     });
 
 
