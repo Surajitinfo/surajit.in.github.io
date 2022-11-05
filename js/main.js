@@ -6,8 +6,8 @@ $(document).ready(function(){
         $('.navbar-toggler span:nth-child(2)').toggleClass('close-bottom');
     });
     
-    $('.navbar-toggler').click(function(){
-        $('.nav-link').toggleClass('position');
+    $('.nav-link').click(function(){
+        $('.navbar-collapse').toggleClass('position');
     });
 
 
