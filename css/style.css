@@ -958,6 +958,9 @@ section{
 	font-size: 30px;
 	color: var(--main-color);
 }
+.contact-box a{
+	display: block:
+}
 .contact-form label{
 	color: var(--main-color);
 	text-transform: capitalize;
