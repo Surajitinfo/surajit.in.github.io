@@ -631,6 +631,7 @@ section{
 /*service*/
 .service{
 	padding: 80px 0;
+	background: #ebf4f5
 }
 .services-box{
 	padding: 30px 30px;
@@ -639,6 +640,7 @@ section{
 	border-radius: 5px;
 	box-shadow:0px 1px 15px 0px #cfcbcb;
 	position: relative;
+	background: #ffffff;
 }
 .services-icon{
 	width: 80px;
