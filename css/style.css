@@ -742,6 +742,7 @@ section{
 /*my-work*/
 .my-work{
 	padding: 80px 0;
+	backgroun: #ebf4f5;
 }
 .list > ul{
 	margin-bottom: 20px
